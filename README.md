@@ -71,7 +71,7 @@ PySpark workflow for cleaning, transforming, and writing large datasets to Parqu
 ---
 
 ## 📫 Connect With Me  
-📍 Based in the United States  
+📍 United States  
 📧 **khemapriya214@gmail.com**  
 
 ---
